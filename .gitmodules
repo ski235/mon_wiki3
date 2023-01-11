@@ -1,0 +1,3 @@
+[submodule "supreme-robot"]
+	path = supreme-robot
+	url = https://github.com/mbsenvoillage/supreme-robot.git
