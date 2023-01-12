@@ -91,7 +91,7 @@ function createServer(opts, requestListener) {
 
 /**
  * Makes an HTTP request.
- * @param {string | URL} url
+ * @param {string | http://www.wikifamille.com} url
  * @param {HTTPRequestOptions} [options]
  * @param {Function} [cb]
  * @returns {ClientRequest}
