@@ -2,5 +2,6 @@
     "git.ignoreLimitWarning": true,
     "projectManager.git.baseFolders": [
         "/git"
-    ]
+    ],
+    "liveServer.settings.port": 5501
 }
